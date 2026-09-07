@@ -10,6 +10,7 @@ respeitando todos os funcionamentos. Essas telas se encontram na pasta "WIREFRAM
 
 - `/CSS`: Arquivos de estilo organizados por elementos.
 - `/DOCS`: Arquivo PDF contendo todas as informações e passos para a realização do projeto.
+- - `/WIREFRAMES`: Imagens das 14 telas passadas para telas mobile.
 - `README`: Documentação onde descrevemos o que foi feito no projeto.
-- `/WIREFRAMES`: Imagens dos protótipos de referência apresentado pelo professor.
-- `/WIREFRAMESMOBILE`: Imagens das 14 telas passadas para mobile.
+
+
