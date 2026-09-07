@@ -1,0 +1,26 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  border-radius: 20px;
+}
+
+.form__label {
+  font-size: 14px;
+  color: #1a1a1a;
+}
+
+.form__input {
+  width: 250px;
+  height: 10px;
+  padding: 12px;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  background-color: #ffffff;
+  color: #1a1a1a;
+}
+
+.form__checkbox {
+  width: 8px;
+  height: 10px;
+}

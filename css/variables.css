@@ -1,0 +1,12 @@
+:root {
+  --color-background: #f8f9fa;
+  --color-white: #ffffff;
+  --color-text: #1a1a1a;
+  --color-text-secondary: #6c757d;
+  --color-border: #e0e0e0;
+  --color-button-primary: #00795a;
+  --color-button-secondary:#00795a;
+  --color-card-date: #6c757d;
+  --font-family: Arial, sans-serif;
+  --font-weight: bold;
+}
