@@ -13,4 +13,10 @@ respeitando todos os funcionamentos. Essas telas se encontram na pasta "WIREFRAM
 - - `/WIREFRAMES`: Imagens das 14 telas passadas para telas mobile.
 - `README`: Documentação onde descrevemos o que foi feito no projeto.
 
-
+integrantes:
+João Raphael Martins Florencio - 825155356
+Joaquim Melo Moura - 825146970
+Nicolas Santos da Silva - 825133364
+Vinicius Prado- 825126008
+Renato Gabriel de Oliveira Mandu - 825112031
+Vinicius Moura Hosokawa - 82516076
