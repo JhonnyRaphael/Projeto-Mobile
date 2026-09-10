@@ -3,7 +3,7 @@
 
 Nessa atividade, tivemos que analisar elementos de 14 páginas web e descreve-los usando a nomenclatura BEM ensinado pelo
 professor José Carmino durante as aulas. Além disso, fomos desafiados a formatar as telas de PC para telas em formato mobile,
-respeitando todos os funcionamentos. Essas telas se encontram na pasta "WIREFRAMES MOBILE".
+respeitando todos os funcionamentos. Essas telas se encontram na pasta "WIREFRAMES".
 
 - Estrutura de Pastas:
 
